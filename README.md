@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @CamilaMarrau
-- 👀 I’m interested in Analise de Dados...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Email : camilasantosmarraudesouza@gmail.com...
-- 😄 Pronouns: Ela...
-- ⚡ Fun fact: ...
+ 💻 Portfólio de Análise de Dados - Camila Marrau
 
-<!---
-CamilaMarrau/CamilaMarrau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Bem-vindo ao meu portfólio! Aqui compartilharei meus projetos práticos de Análise de Dados, Power BI e Python.
+
+ 
+## 📌 Sobre Mim
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (Concluindo em 2025).  
+💡 Foco em **Análise de Dados, SQL, Power BI e Python**.  
+📫 Contato: camilasantosmarraudesouza@gmail.com  
+📍 Hortolândia, SP | 🌎 Disponível para Estágio  
+
+
+✅ **Me siga no GitHub para acompanhar meus projetos!**  
