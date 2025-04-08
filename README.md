@@ -3,7 +3,7 @@
 🚀 Bem-vindo ao meu portfólio! Aqui compartilharei meus projetos práticos de Análise de Dados, Power BI e Python.
 
  
-## 📌 Sobre Mim
+## 📌 Camila Marrau
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (Concluindo em 2025).  
 💡 Foco em **Análise de Dados, SQL, Power BI e Python**.  
 📫 Contato: camilasantosmarraudesouza@gmail.com  
